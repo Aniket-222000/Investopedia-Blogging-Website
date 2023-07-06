@@ -110,3 +110,21 @@ This project was created using the following technologies.
 
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
 
+ ##  Screenshots 
+ 
+
+![1](https://user-images.githubusercontent.com/111676859/226197211-8abc5de5-7659-4811-b28a-ef885de64267.png)
+---- -
+![2](https://user-images.githubusercontent.com/111676859/226197211-8abc5de5-7659-4811-b28a-ef885de64267.png)
+---- -
+![3](https://user-images.githubusercontent.com/111676859/226197295-e9525dd5-1346-4951-a1c8-d5620166d7aa.png)
+---- -
+![4](https://github.com/Aniket-222000/Investopedia-Blogging-Website/blob/main/Screenshots/Blog.jpeg)
+---- -
+![5](https://github.com/Aniket-222000/Investopedia-Blogging-Website/blob/main/Screenshots/Edit%20Profile.jpeg)
+---- -
+![6](https://github.com/Aniket-222000/Investopedia-Blogging-Website/blob/main/Screenshots/Home%20Page.jpeg)
+---- -
+![7](https://github.com/Aniket-222000/Investopedia-Blogging-Website/blob/main/Screenshots/Blog%20Editor.jpeg)
+---- -
+
